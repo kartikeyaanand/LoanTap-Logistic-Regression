@@ -1,12 +1,8 @@
-# LoanTap-Logistic-Regression
-
-# Problem Statement:
-
-Given a set of attributes for an Individual, determine if a credit line should be extended to them. If so, what should the repayment terms be in business recommendations?
-
 # LaonTap - Logistic Regression
 
-![](https://i.postimg.cc/fT2sBXb7/cover-image.jpg)
+**Problem Statement:** Given a set of attributes for an Individual, determine if a credit line should be extended to them. The main challenge is to minimise the risk of NPAs by flagging defaulters while maximising opportunity to earn interest by disbursing loans to as many customers as possible.
+
+![image.png](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202311/img-151208692-16x9_0.jpg?VersionId=y4v40pzRe2LcFM1JTCNRdr0y70QSazED&size=690:388)
 
 **LoanTap** is an online platform committed to delivering customized loan products to millennials. They innovate in an otherwise dull loan segment, to deliver instant, flexible loans on consumer friendly terms to salaried professionals and businessmen.
 
@@ -39,4 +35,4 @@ The data science team at LoanTap is building an underwriting layer to determine 
 24. application_type : Indicates whether the loan is an individual application or a joint application with two co-borrowers
 25. mort_acc : Number of mortgage accounts.
 26. pub_rec_bankruptcies : Number of public record bankruptcies
-27. Address: Address of the individual 
+27. Address: Address of the individual
