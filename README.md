@@ -1,6 +1,7 @@
 # LaonTap - Logistic Regression
 
-**Problem Statement:** Given a set of attributes for an Individual, determine if a credit line should be extended to them. The main challenge is to minimise the risk of NPAs by flagging defaulters while maximising opportunity to earn interest by disbursing loans to as many customers as possible.
+# Problem Statement:
+Given a set of attributes for an Individual, determine if a credit line should be extended to them. The main challenge is to minimise the risk of NPAs by flagging defaulters while maximising opportunity to earn interest by disbursing loans to as many customers as possible.
 
 ![image.png](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202311/img-151208692-16x9_0.jpg?VersionId=y4v40pzRe2LcFM1JTCNRdr0y70QSazED&size=690:388)
 
@@ -8,7 +9,7 @@
 
 The data science team at LoanTap is building an underwriting layer to determine the creditworthiness of MSMEs as well as individuals.
 
-**Data dictionary:**
+# Data dictionary:
 1. loan_amnt : The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.
 2. term : The number of payments on the loan. Values are in months and can be either 36 or 60.
 3. int_rate : Interest Rate on the loan
