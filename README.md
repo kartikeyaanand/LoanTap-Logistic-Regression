@@ -1,6 +1,6 @@
 # LoanTap-Logistic-Regression
 
-Problem Statement:
+# Problem Statement:
 
 Given a set of attributes for an Individual, determine if a credit line should be extended to them. If so, what should the repayment terms be in business recommendations?
 
@@ -11,8 +11,6 @@ Given a set of attributes for an Individual, determine if a credit line should b
 **LoanTap** is an online platform committed to delivering customized loan products to millennials. They innovate in an otherwise dull loan segment, to deliver instant, flexible loans on consumer friendly terms to salaried professionals and businessmen.
 
 The data science team at LoanTap is building an underwriting layer to determine the creditworthiness of MSMEs as well as individuals.
-
-**Problem Statement:** Given a set of attributes for an Individual, determine if a credit line should be extended to them. The main challenge is to minimise the risk of NPAs by flagging defaulters while maximising opportunity to earn interest by disbursing loans to as many customers as possible.
 
 **Data dictionary:**
 1. loan_amnt : The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.
